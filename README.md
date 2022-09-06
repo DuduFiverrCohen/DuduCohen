@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuduFiverrCohen
+- 👋 Hi, I’m @DuduCohen
 - 👀 I’m interested in music and yoga
 - 💞️ I’m looking to collaborate on Android dev and KMM
 
